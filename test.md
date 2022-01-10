@@ -1,5 +1,6 @@
 ---
 title: "Test"
 layout: default
-sitemap: false
 ---
+
+Test text here.
