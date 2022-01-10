@@ -4,7 +4,7 @@ permalink: "/about/"
 layout: page
 ---
 ### Who I am
-I'm John Underwood. I'm a husband of 20 years and father of two wonderful young people learning to adult. I enjoy DIY rehabs done well and love cast iron restoration and cooking. I'm a  transplant to Southern California and have started enjoying beach clean up. I'm learning to enjoy jigsaw puzzles and every now and then I'll have a hot green tea instead of coffee. I enjoy reading Fantasy such as Robert Jordan's [Wheel of Time series](https://www.brandonsanderson.com/books-and-art/#cosmere) or Brandon Sanderson's [Stormlight Archive series](https://www.brandonsanderson.com/books-and-art/#cosmere).
+I'm John Underwood. I'm a husband of 20 years and father of two wonderful young people learning to adult. I enjoy home DIY rehabs done well and love cast iron restoration and cooking. I'm a  transplant to Southern California and have started enjoying beach clean up. I'm learning to enjoy jigsaw puzzles and every now and then I'll have a hot green tea instead of coffee. I enjoy reading Fantasy such as Robert Jordan's [Wheel of Time series](https://www.brandonsanderson.com/books-and-art/#cosmere) or Brandon Sanderson's [Stormlight Archive series](https://www.brandonsanderson.com/books-and-art/#cosmere).
 
 ### What I do
 I currently serve as the Vice President of Information Security in the retail space. In this role I ensure that our security program and roadmap meets the risks of a changing threat landscape and aligns with the corporate strategy.  I also oversee SOX and PCI compliance and collaborate with internal legal counsel in running the Privacy program. 
