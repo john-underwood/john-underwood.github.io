@@ -3,11 +3,6 @@ title: "About"
 permalink: "/about/"
 layout: page
 ---
----
-title: "About"
-permalink: "/about/"
-layout: page
----
 ### Who I am
 I'm John Underwood. I'm a husband of 20 years and father of two wonderful young people learning to adult. I enjoy DIY home rehabs and have flipped a few properties. I also like restoration of old cast iron pans.  (I know...I know... but its a [community](https://media.giphy.com/media/kSlJtVrqxDYKk/giphy.gif))
 
