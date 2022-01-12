@@ -17,14 +17,14 @@ I participate and serve the InfoSec community in the following ways:
  - [Governing Body of Southern California CISOs for Evanta](https://www.evanta.com/ciso/southern-california)
  - [IT Security Council for the National Retail Federation](https://nrf.com/about-us/committees-councils/it-security-council)
  - [SANS Advisory Board](https://www.giac.org/about/community/)
- - A member of the [Retail and Hospitality ISAC (RH-ISAC)](https://www.rhisac.org/).
+ - A member of the [Retail and Hospitality ISAC (RH-ISAC)](https://www.rhisac.org/)
  - Advisor for SaaS based GRC start up in the pre-launch phase. 
 
 When availability allows, I also mentor junior security professionals and coach people in how to get into the field.
 
 ### Why this site 
-This site is mostly a side project. For some reason you ended up here and I really do hope it helps you in some way... that would make my day.  But this isn't about personal branding or trying to be a guru of some sort. This is a cross between a personal journal and [digital garden](https://joelhooks.com/digital-garden).
+This site is mostly a side project. For some reason you ended up here and I really do hope it helps you in some way... that would make my day.  But this isn't about personal branding or trying to be a guru of some sort. This is a cross between a public personal journal and [digital garden](https://joelhooks.com/digital-garden).
 
-I don't care about putting out a polished product.  I don't want to sell anything.  I just want a place to jot a thought and develop it over time.  
+For this site, I don't care about putting out a polished product.  I don't want to sell anything.  I just want a place to jot a thought and develop it over time.  
 
-In that vein, notes and posts not sacred.  The way a digital garden works is that thoughts are first "seeds" which are developed and cultivated over time.  Some turn out to be weeds and can be removed.  Others can grow into something more.  So, if you visit often you should start to notice that posts change over time as they are curated and developed.
+In that vein, notes and posts are not sacred.  The way a digital garden works is that thoughts are first "seeds" which are developed and cultivated over time.  Some turn out to be weeds and can be removed, others can grow into something more.  So, if you visit often you should start to notice that as I learn and grow, some of my posts will too.
