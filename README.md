@@ -16,9 +16,9 @@ I hold the [CISM](https://www.isaca.org/credentialing/cism), [CIPM](https://iapp
 I participate and serve the InfoSec community in the following ways:
  - [Governing Body of Southern California CISOs for Evanta](https://www.evanta.com/ciso/southern-california)
  - [IT Security Council for the National Retail Federation](https://nrf.com/about-us/committees-councils/it-security-council)
- - [SANS Advisory Board](https://www.giac.org/about/community/)
+ - [GIAC Advisory Board](https://www.giac.org/about/community/)
  - A member of the [Retail and Hospitality ISAC (RH-ISAC)](https://www.rhisac.org/)
- - Advisor for SaaS based GRC start up in the pre-launch phase. 
+ - Advisor for SaaS based GRC start up in the pre-launch phase 
 
 When availability allows, I also mentor junior security professionals and coach people in how to get into the field.
 
